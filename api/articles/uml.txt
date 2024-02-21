@@ -1,0 +1,15 @@
+Diagramme UML 
+
+User
+-	name : String
+-	password : String
+-	email : String
+-	date : Date
+-	role : String
+-	age : Number
+
+Article
+-	title : String
+-	content : String
+-	user : userId
+
